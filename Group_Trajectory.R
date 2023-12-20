@@ -345,7 +345,7 @@ ggplot(data=plot_totalGM)+
 
 
 ################################################################################
-# 4. Estimation of peak total GMV in IMAGEN
+# 3. Estimation of peak total GMV in IMAGEN
 ################################################################################
 localMaxima = function(x) {
   # Use -Inf instead if x is numeric (non-integer)
