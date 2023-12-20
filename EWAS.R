@@ -8,11 +8,6 @@ if (!require("lavaan")){
   library(lavaan)
 }
 
-if (!require("fastDummies")){
-  install.packages('fastDummies')
-  library(fastDummies)
-}
-
 ################################################################################
 # 1. DMP analysis
 ################################################################################
