@@ -23,6 +23,6 @@ total running time should be less than 1 day.
 
 Operating system: 11th Gen Intel(R) Core(TM) i7-11800H (32.0 GB RAM); Windows 10 (not required)
 Software: R-4.2.2
-Dependencies: dplyr-1.1.0; lme4-1.1-34; nlme-3.1-163; splines-4.2.2; mgcv-1.9.0; ggplot2-3.4.3; lavaan-0.6-16; (installing time should be less than 2 mins)
+Dependencies: dplyr-1.1.0; lme4-1.1-34; nlme-3.1-163; splines-4.2.2; mgcv-1.9.0; ggplot2-3.4.3; lavaan-0.6-16; (installing time should be less than 2 mins by install.packages())
 
 Welcome for any questions about analyses!
